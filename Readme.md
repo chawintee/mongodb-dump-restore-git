@@ -71,3 +71,14 @@
     ```
     const COLLECTION = "Artist"
     ```
+
+### ปัญหาที่เจอตอนทำ
+- plese use MongoDB Database Tools under version `100.5.2`
+- https://www.mongodb.com/download-center/database-tools/releases/archive
+- solution 
+    - https://www.mongodb.com/community/forums/t/mongoimport-error-server-returned-error-on-sasl-authentication-step-bson-field-saslcontinue-mechanism-is-an-unknown-field/163296/5
+
+# Reference
+- https://www.mongodb.com/docs/manual/tutorial/backup-and-restore-tools/
+- https://www.mongodb.com/docs/database-tools/mongodump/
+- https://www.mongodb.com/docs/database-tools/mongorestore/
